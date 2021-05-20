@@ -1,0 +1,13 @@
+.content {
+    height: 80vh;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background: rgb(235, 176, 235);
+    overflow-y: scroll;
+}
+p {
+    font-size: 17px;
+}

@@ -1,0 +1,12 @@
+.navbar {
+background: rgb(173, 222, 240);
+padding: 30px;
+height: 20vh;
+display: flex;
+justify-content: space-between;
+}
+h1 {
+    font-size: 30px;
+    font-weight: 400;
+
+}
